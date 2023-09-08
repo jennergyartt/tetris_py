@@ -146,7 +146,7 @@ def main():
             draw_board()
             continue
         draw_board()
-        time.sleep(0.5)
+        time.sleep(0.25)
 
 # Запуск игры
 if __name__ == "__main__":
