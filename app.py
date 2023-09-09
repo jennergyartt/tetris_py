@@ -4,8 +4,8 @@ import time
 import keyboard
 
 # Размер игрового поля
-WIDTH = 10
-HEIGHT = 20
+WIDTH = 20
+HEIGHT = 30
 
 # Фигуры для тетриса
 SHAPES = [
